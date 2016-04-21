@@ -57,7 +57,7 @@ Ufak border buton kütüphanesi buna kütüphanede denmezde neyse :)
       <link rel="stylesheet" href="https://raw.githubusercontent.com/muhammedzaimtr/border-buttom/master/border-button.css" media="screen" title="no title" charset="utf-8">
           
       Sıkıştırılmış Css Dosyası:    
-      <link rel="stylesheet" href="https://raw.githubusercontent.com/muhammedzaimtr/border-button/master/border-button.min.css" media="screen" title="no title" charset="utf-8">
+      <link rel="stylesheet" href="https://raw.githubusercontent.com/muhammedzaimtr/border-buttom/master/border-button-min.css" media="screen" title="no title" charset="utf-8">
 
 ```
 
