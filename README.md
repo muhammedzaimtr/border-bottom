@@ -5,7 +5,7 @@ Ufak border buton kütüphanesi buna kütüphanede denmezde neyse :)
 
 #Boyutlandırma
 
-![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-button/master/image/1.png)
+![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-buttom/master/image/1.png)
 
 ```html
       <div class="button xsmall ">XSmall</div>
@@ -15,7 +15,7 @@ Ufak border buton kütüphanesi buna kütüphanede denmezde neyse :)
       <div class="button xlarge ">XLarge</div>
 ```
 #Örnek Renkler
-![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-button/master/image/2.png)
+![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-buttom/master/image/2.png)
 
 ```html
       <div class="button xsmall carrot">Carrot</div>
@@ -26,7 +26,7 @@ Ufak border buton kütüphanesi buna kütüphanede denmezde neyse :)
 ```
 #Disabled ve Radius
 
-![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-button/master/image/3.png)
+![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-buttom/master/image/3.png)
 
 ```html
       <div class="button xsmall carrot radius">xsmall carrot radius</div>
@@ -38,7 +38,7 @@ Ufak border buton kütüphanesi buna kütüphanede denmezde neyse :)
 
 #Radius
 
-![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-button/master/image/4.png)
+![Image](https://raw.githubusercontent.com/muhammedzaimtr/border-buttom/master/image/4.png)
 
 ```html
       <div class="button xsmall carrot radius">xsmall radius</div>
@@ -54,7 +54,7 @@ Ufak border buton kütüphanesi buna kütüphanede denmezde neyse :)
       
       
       Sıkıştırılmamış Css Dosyası:
-      <link rel="stylesheet" href="https://raw.githubusercontent.com/muhammedzaimtr/border-button/master/border-button.css" media="screen" title="no title" charset="utf-8">
+      <link rel="stylesheet" href="https://raw.githubusercontent.com/muhammedzaimtr/border-buttom/master/border-button.css" media="screen" title="no title" charset="utf-8">
           
       Sıkıştırılmış Css Dosyası:    
       <link rel="stylesheet" href="https://raw.githubusercontent.com/muhammedzaimtr/border-button/master/border-button.min.css" media="screen" title="no title" charset="utf-8">
